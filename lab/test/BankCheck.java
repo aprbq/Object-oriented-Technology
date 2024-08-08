@@ -1,4 +1,4 @@
-package week04.lab.quiz;
+package lab.test;
 import java.util.Scanner;
 
 public class BankCheck {

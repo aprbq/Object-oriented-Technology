@@ -1,4 +1,4 @@
-package lab.week06.lab2;
+package week06.lab.lab2;
 
 class Customer {
     private String customerName;

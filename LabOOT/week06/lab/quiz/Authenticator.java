@@ -1,4 +1,4 @@
-package lab.week06;
+package week06.lab.quiz;
 import java.util.*;
 
 public class Authenticator {
@@ -49,6 +49,7 @@ public class Authenticator {
                     System.out.println("Invalid choice, Please try again...\n");
             }
         } while (choice != 0);
+        sc.close();
     }
 
     public static boolean login(String uid) {
