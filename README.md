@@ -2,7 +2,7 @@
 ---
 Suranaree University of Technology 
 
-## compile
+## Compile
 
 Compilation example
 ```sh
