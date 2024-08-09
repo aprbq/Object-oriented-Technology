@@ -1,4 +1,4 @@
-#### _ENG23 2032 OBJECT–ORIENTED TECHNOLOGY_
+#### _OBJECT–ORIENTED TECHNOLOGY_
 ---
 Suranaree University of Technology 
 
